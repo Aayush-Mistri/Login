@@ -1,0 +1,74 @@
+.wrapped{
+				font-family:Bauhaus 93;
+				color:pink;
+				padding:10px;
+				margin-left:15%;
+				font-size:22px;
+				
+				
+			}
+			.in1 input[type="text"]{
+				width:400px;
+				height:50px;
+				margin-left:11%;
+				border-radius:20px;
+				background-color:#F1DEDE;
+			}
+			.in2 input[type="password"]{
+				width:400px;
+				height:50px;
+				margin-left:11%;
+				border-radius:20px;
+				background-color:#F1DEDE;
+			}
+			.in2 input[type="password"]::placeholder{
+				color:#BBACC1;
+			}
+			.in1 input[type="text"]::placeholder{
+				color:#BBACC1;
+			}
+			.hlink{
+				font-size:20px;
+				margin-left:15%;
+				color:pink;
+				
+			}
+			.signup{
+				font-size:20px;
+				margin-left:60%;
+				margin-top:28%;
+				color:pink;
+				
+			}	
+			button{
+				font-size:15px;
+				width:110px;
+				margin-left:60%;
+				font-family:verdana;
+				background-color:pink;
+				color:#pink;
+				border:11px solid yellow;
+				border-radius:20px;
+				border-color:pink;
+				border-width:5px;
+				height:30px;
+				
+			}
+			.container{
+				background-color:#AB81CD;
+				border:2px solid black;
+				box-shadow: 5px 5px 10px rgba(0,0,0,1);
+				width:500px;
+				height:600px;
+				margin-left:33%;
+				background-color:rgba(204,153,204,0);
+			}
+			body{
+				background-color:#F1DEDE;
+				background-image:url('3d-background-purple-background-abstract-background-windows-3840x1932-8292.jpg');
+			}
+			a
+			{
+				color:pink;
+			}
+			
